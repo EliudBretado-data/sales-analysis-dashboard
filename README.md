@@ -55,7 +55,9 @@ Need for diversification strategy in the North región
 
 
 Reduce dependency on top clients
+
 Diversify customer base
+
 Monitor client activity trends
 
 
