@@ -66,5 +66,5 @@ Implement early warning KPIs for client activity drops
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/Dashboard Preview.png)
+![Dashboard](images/Dashboard.png)
 
