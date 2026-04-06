@@ -64,3 +64,7 @@ Increase client acquisition in the North region
 
 Implement early warning KPIs for client activity drops
 
+## 📊 Dashboard Preview
+
+![Dashboard](images/Dashboard Preview.png)
+
